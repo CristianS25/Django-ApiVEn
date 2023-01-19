@@ -10,7 +10,7 @@ Usamos como ejemplo de validación el sistema de una comercializadora. <br />
 
 ## Importante
 En la siguiente ubiciación "Shop/requeriments.txt" encontrarás las dependencias para poder ejecutar el proyecto sin ningún inconveniente. <br />
-<b>Si no sabes cómo instalar las dependecias entra al siguiente link</b>
+<b>Si no sabes cómo instalar las dependecias entra al siguiente link:</b>
 https://www.youtube.com/watch?v=vSpkN99PiyE
 
 <h6>DOCUMENTACIÓN DJANGO</h6>
