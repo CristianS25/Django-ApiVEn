@@ -9,3 +9,4 @@ Usamos como ejemplo de validación el sistema de una comercializadora. <br />
 - Eliminar
 
 ## Importante
+En la siguiente ubiciación "Shop/requeriments.txt" encontrarás los requerimientos para poder ejecutar el proyecto sin ningún inconveniente
