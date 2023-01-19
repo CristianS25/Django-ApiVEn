@@ -1,4 +1,4 @@
 # API REST DJANGO 
 
-Este repositorio contiene un proyecto DJANGO que pone a prueba los metodos GET, POST, DELETE y EDIT
+Este repositorio contiene un proyecto DJANGO que pone a prueba los metodos GET, POST, DELETE y EDIT <br />
 Usamos como ejemplo de validación los datos de motocicletas
