@@ -4,6 +4,7 @@ Este repositorio contiene un proyecto DJANGO que pone a prueba los metodos GET, 
 Usamos como ejemplo de validación el sistema de una comercializadora. <br />
 
 <h5>Datos por porducto:</h5>
+
 - Id
 - Nombre 
 - Precio
